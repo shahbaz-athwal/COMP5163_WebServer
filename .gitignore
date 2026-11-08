@@ -1,0 +1,9 @@
+.pio
+CLAUDE.md
+*.pdf
+.clangd
+compile_commands.json
+.cache
+*.mov
+*.MOV
+*.mp4
